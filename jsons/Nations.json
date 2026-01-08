@@ -386,7 +386,7 @@
     },
 
 	{
-		"name": "The Ottomans",
+		"name": "Türkiye",
 		"leaderName": "Suleiman I",
 		"adjective": ["Ottoman"],
 		"startBias": ["Coast"],
@@ -481,7 +481,7 @@
         "spyNames": ["Onatah", "Oneida", "Oshadagea", "Otetiani", "Genesee", "Dadgayadoh", "Otwtiani", "Kateri", "Onondakai", "Honanyawus"]
     },
 	{
-		"name": "Persia",
+		"name": "Iran",
 		"leaderName": "Darius I",
 		"adjective": ["Persian"],
 		"preferredVictoryType": "Scientific",
