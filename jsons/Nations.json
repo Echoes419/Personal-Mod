@@ -353,9 +353,9 @@
         "spyNames": ["Ashok", "Shanx", "Hormis", "Sanjeev", "Ananda", "Rani", "Parvati", "Mukta", "Karishma", "Jyotsna"]
     },
 	{
-		"name": "Germany",
-		"leaderName": "Otto von Bismarck",
-		"adjective": ["German"],
+		"name": "Deutschland",
+		"leaderName": "Leader of Deutschland",
+		"adjective": ["Deutsche"],
 		"preferredVictoryType": "Scientific",
 		"personality": "Otto von Bismarck",
 
